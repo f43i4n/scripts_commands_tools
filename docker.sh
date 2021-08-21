@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # TODO: improve parameter and error handling
 
